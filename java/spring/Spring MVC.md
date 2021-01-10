@@ -1,3 +1,5 @@
+## Spring MVC
+
 前后端分离已成为互联网项目开发的业界标准使用方式，在项目中，我们会使用 Spring MVC 为前端页面提供接口，来实现项目的前后端分离。Spring MVC 是一个模型 - 视图 - 控制器（MVC）的 Web 框架，Spring MVC 是 Spring 产品组合的一部分，它享有 Spring IoC 容器紧密结合 Spring 松耦合等特点。那我们如何使用 Spring MVC 开发一个前后分离的项目呢？
 
 ### 后端
